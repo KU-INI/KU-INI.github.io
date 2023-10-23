@@ -2,7 +2,7 @@ title:              INI Lab
 email:              antonio97k@korea.ac.kr
 description:        Intelligence and Informatics Lab
 author:             Start Bootstrap
-baseurl:            "/inilab"
+baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://startbootstrap.github.io"
 # Social Profiles
 twitter_username:   SBootstrap
