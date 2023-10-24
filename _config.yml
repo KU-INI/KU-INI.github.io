@@ -1,7 +1,7 @@
 title:              INI Lab
 email:              antonio97k@korea.ac.kr
-description:        Intelligence and Informatics Lab
-author:             INI
+description:        Intelligence aNd Informatics Lab
+author:             INI Lab
 baseurl:            ""
 url:                "https://startbootstrap.github.io"
 # Social Profiles
@@ -17,7 +17,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 # Build settings
 markdown:           kramdown
 paginate:           5
-paginate_path:      "/posts/page:num/"
+paginate_path:      "/researchs/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate

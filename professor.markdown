@@ -11,13 +11,13 @@ description:
     
     }
     div.left {
-        width: 75%;
+        width: 70%;
         height : 280px;
         float: left;
         line-height : 300%;
     }
     div.right {
-        width: 25%;
+        width: 30%;
         height : 280px;
         float: right;
     }
@@ -27,8 +27,8 @@ description:
         line-height : 120%;
     }
     div.profilebox {
-     width: 230px;
-     height: 230px; 
+     width: 200px;
+     height: 200px; 
      border-radius: 70%;
      overflow: hidden;
      margin-top : 30px
