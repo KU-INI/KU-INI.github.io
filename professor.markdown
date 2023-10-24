@@ -27,8 +27,8 @@ description:
         line-height : 120%;
     }
     div.profilebox {
-     width: 150px;
-     height: 150px; 
+     width: 240px;
+     height: 240px; 
      border-radius: 70%;
      overflow: hidden;
      margin-top : 30px
@@ -67,7 +67,7 @@ description:
     </div>
     <div class = "right">
         <div class = "profilebox">
-            <img class = "profile" src="/img/professor.jpg" />
+            <img class = "profile" src="/img/Professor.jpg" />
         </div>
     </div>
     <div class = "main">
