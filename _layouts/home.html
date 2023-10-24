@@ -31,12 +31,13 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
         <h1>Recent Research</h1>
+        <hr>
         {{ content }}
         <!-- Home Post List -->
-        {% for post in site.posts limit : 5 %}
+        {% for post in site.posts limit : 8 %}
         <article class="post-preview">
-            <h4 class="post-title">{{ post.title }}</h4>
-          <p class="post-meta">
+            <h5 class="post-title">{{ post.title }}</h5>
+          <p class="post-meta" style="font-size: 15px;">
             {{ post.author }}, {{ post.journal }}
             on
             {{ post.date | date: '%B, %Y'}}
