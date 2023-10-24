@@ -27,8 +27,8 @@ description:
         line-height : 120%;
     }
     div.profilebox {
-     width: 200px;
-     height: 200px; 
+     width: 150px;
+     height: 150px; 
      border-radius: 70%;
      overflow: hidden;
      margin-top : 30px
