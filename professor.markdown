@@ -40,10 +40,18 @@ description:
      margin-bottom : 40px;
      padding : 30px;
     }
+    div.italic{
+        font-style : italic;
+        font-size : 16px;
+        color : gray;
+        margin-top : -10px;
+        line-height : 160%;
+    }
     img.profile {
      width: 100%;
      height: 100%;
      object-fit: cover;
+     
     }
     blockquote{
         font-size: 16px;
@@ -56,14 +64,16 @@ description:
 <div class = "main">
     <div class = "left">
         <h3>Hyeoncheol Kim</h3>
-        <blockquote style="line-height:20%;">
-        Department of Computer Science & Engineering, Korea University<br>
-        </blockquote>
+        <div class="italic">
+            Department of Computer Science & Engineering, Korea University<br>
+        </div>
+        <div>
         <ul>
             <li>Office : Aegineung Student Center 321</li>
             <li>E-mail : harrykim@korea.ac.kr</li>
-            <li>Phone : 02-3290-2393</li>
+            <li>Phone : +82-2-3290-2393</li>
         </ul>
+        </div>
     </div>
     <div class = "right">
         <div class = "profilebox">
@@ -106,12 +116,40 @@ description:
                 <blockquote>2019 - 현재</blockquote>
                 <hr>
                 <!--구분선-->
+                국가교육회의 디지털교육 특위/위원<br>
+                <blockquote>2021 - 2022</blockquote>
+                <hr>
+                <!--구분선-->
+                한국과학기술단체총연합회 과학기술교육위원회/위원<br>
+                <blockquote>2021 - 2022</blockquote>
+                <hr>
+                <!--구분선-->
+                교육부 과학수학정보교육 융합위원회/위원<br>
+                <blockquote>2018 - 2021</blockquote>
+                <hr>
+                <!--구분선-->
                 남플로리다대학교 컴퓨터공학과/ 방문교수<br>
                 <blockquote>2019 - 2020</blockquote>
                 <hr>
                 <!--구분선-->
+                교육부/과학수학 정보교육융합위원회 위원<br>
+                <blockquote>2017 - 2019</blockquote>
+                <hr>
+                <!--구분선-->
+                고려대학교 영재교육원/원장<br>
+                <blockquote>2017 - 2019</blockquote>
+                <hr>
+                <!--구분선-->
                 국세청 빅데이터/자문 위원<br>
                 <blockquote>2017 - 2019</blockquote>
+                <hr>
+                <!--구분선-->
+                한국컴퓨터교육학회/학회장<br>
+                <blockquote>2017 - 2019</blockquote>
+                <hr>
+                <!--구분선-->
+                네이버/SW교육부분 자문교수<br>
+                <blockquote>2014 - 2016</blockquote>
                 <hr>
                 <!--구분선-->
                 삼성전자 DMC연구소/자문교수<br>
@@ -120,6 +158,10 @@ description:
                 <!--구분선-->
                아리조나주립대학교 학습과학연구소/방문교수<br>
                 <blockquote>2012 - 2013</blockquote>
+                <hr>
+                <!--구분선-->
+                고려대학교 산학협력단/부단장<br>
+                <blockquote>2011 - 2012</blockquote>
                 <hr>
                 <!--구분선-->
                 플로리다대학교 컴퓨터공학과 /방문교수<br>

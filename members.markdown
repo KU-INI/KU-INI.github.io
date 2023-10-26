@@ -25,6 +25,14 @@ description:
      height: 100%;
      object-fit: cover;
     }
+    div.italic{
+        font-style : italic;
+        font-size : 16px;
+        color : gray;
+        margin-top : -10px;
+        margin-bottom : 4px;
+        line-height : 160%;
+    }
  </style>
  <!--
 박사학생 프로필 시작
@@ -45,9 +53,9 @@ description:
     </div>
     <div class ="right">
         <h4>Eunhun Lee</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             booksky@korea.ac.kr
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>Deep Learning</li>
@@ -69,9 +77,9 @@ description:
     </div>
     <div class ="right">
         <h4>최승윤</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             csyun213@gmail.com
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>Machine Learning</li>
@@ -92,9 +100,9 @@ description:
     </div>
     <div class ="right">
         <h4>박선우</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             sunwoosan@korea.ac.kr
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>Deep Learning</li>
@@ -114,9 +122,9 @@ description:
     </div>
     <div class ="right">
         <h4>곽소아</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             soah.gwak@gmail.com
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>K-12 Computer Science Education</li>
@@ -136,9 +144,9 @@ description:
     </div>
     <div class ="right">
         <h4>정기민</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             jkm0530@korea.ac.kr
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>AI education</li>
@@ -166,9 +174,9 @@ description:
     </div>
     <div class ="right">
         <h4>독고준석</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             flyj2911@korea.ac.kr
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>AI</li>
@@ -186,9 +194,9 @@ description:
     </div>
     <div class ="right">
         <h4>이동건</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             pocet25@korea.ac.kr
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>XAI</li>
@@ -207,9 +215,9 @@ description:
     </div>
     <div class ="right">
         <h4>김준구</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             antonio97k@korea.ac.kr
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>NLP</li>
@@ -232,9 +240,9 @@ description:
     </div>
     <div class ="right">
         <h4>Dongeun Sun</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             sunde41@korea.ac.kr
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>Data Mining</li>
@@ -252,9 +260,9 @@ description:
     </div>
     <div class ="right">
         <h4>Sungsoo Park</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             littlesoo@kovi.com
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>CNN</li>
@@ -274,9 +282,9 @@ description:
     </div>
     <div class ="right">
         <h4>장연주</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             spring0425@korea.ac.kr
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>Machine Learning</li>
@@ -296,9 +304,9 @@ description:
     </div>
     <div class ="right">
         <h4>이예슬</h4>
-        <blockquote style="line-height:20%; font-size : 15px">
+        <div class="italic">
             ashleylee9404@gmail.com
-        </blockquote>
+        </div>
         <b>Research interests</b>
         <ul>
             <li>Recommender System</li>
