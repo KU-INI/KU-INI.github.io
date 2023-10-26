@@ -7,6 +7,7 @@ description:
 ---
 <style>
     div.profilebox {
+     float:right;
      width: 160px;
      height: 160px; 
      border-radius: 70%;
@@ -15,9 +16,10 @@ description:
     div.left{
         width: 30%;
         height: 180px;
+        padding-right:30px;
     }
     div.right{
-        width: 70%;
+        width: 380px;
         height: 180px;
     }
     img.profile {

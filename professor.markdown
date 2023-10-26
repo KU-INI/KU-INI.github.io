@@ -12,13 +12,13 @@ description:
     }
     div.left {
         width: 70%;
-        height : 280px;
+        height : 300px;
         float: left;
-        line-height : 300%;
+        line-height : 130%;
     }
     div.right {
         width: 30%;
-        height : 280px;
+        height : 300px;
         float: right;
     }
     div.main {
@@ -65,12 +65,12 @@ description:
     <div class = "left">
         <h3>Hyeoncheol Kim</h3>
         <div class="italic">
-            Department of Computer Science & Engineering, Korea University<br>
+            Department of Computer Science & Engineering, Korea University<br><br>
         </div>
         <div>
         <ul>
-            <li>Office : Aegineung Student Center 321</li>
-            <li>E-mail : harrykim@korea.ac.kr</li>
+            <li>Office : Aegineung Student Center 321</li><br>
+            <li>E-mail : harrykim@korea.ac.kr</li><br>
             <li>Phone : +82-2-3290-2393</li>
         </ul>
         </div>
@@ -80,7 +80,8 @@ description:
             <img class = "profile" src="/img/Professor.jpg" />
         </div>
     </div>
-    <div class = "main">
+</div>
+<div class = "main">
         <h3>EDUCATION</h3>
         <hr />
         <div class="mainbox">
@@ -177,7 +178,7 @@ description:
                 <!--구분선-->
         </div>
     </div>
-</div>
+
 
     
 
