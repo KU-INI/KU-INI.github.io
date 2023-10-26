@@ -12,7 +12,7 @@ description:
     }
     div.left {
         width: 67%;
-
+        margin-bottom:80px;
         float: left;
     }
     div.profile{
@@ -26,7 +26,7 @@ description:
     }
     div.right {
         width: 33%;
-
+        margin-bottom:80px;
         float: right;
     }
     div.main {
