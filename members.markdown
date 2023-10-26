@@ -95,7 +95,7 @@ description:
 <div class="row">
     <div class ="left">
         <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/박선우.jpg">
+            <img class="profile" src="/img/members/박선우.png">
         </div>
     </div>
     <div class ="right">
