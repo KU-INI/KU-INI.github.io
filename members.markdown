@@ -8,11 +8,14 @@ description:
 <style>
     div.profilebox {
      float:right;
-     width: 100%;
-     height: 100%; 
+     width: 95%;
+     height: 95%; 
      border-radius: 70%;
      overflow: hidden;
     position:absolute;
+    }
+    div.main{
+        margin-bottom:20px;
     }
     div.profile{
         width: 100%;
@@ -29,7 +32,7 @@ description:
         margin-left:30px;
     }
     div.right{
-        width: 380px;
+        width: 60%;
         height: 180px;
         margin-left:30px;
     }
@@ -44,7 +47,7 @@ description:
         color : gray;
         margin-top : -10px;
         margin-bottom : 4px;
-        line-height : 160%;
+        line-height : 130%;
     }
  </style>
  <!--
@@ -58,7 +61,7 @@ description:
 
 
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -84,7 +87,7 @@ description:
 
 
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -109,7 +112,7 @@ description:
 
 
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -133,7 +136,7 @@ description:
 <hr>
 <!--끝-->
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -157,7 +160,7 @@ description:
 <hr>
 <!--끝-->
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -189,7 +192,7 @@ description:
 석사생 프로필 추가
  -->  
  <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -211,7 +214,7 @@ description:
 <hr>
 <!--끝-->
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -234,7 +237,7 @@ description:
 <hr>
 <!--끝-->
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -261,7 +264,7 @@ description:
         <h2>Alumni</h2>
     </div>
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -283,7 +286,7 @@ description:
 <hr>
 <!--끝-->
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -307,7 +310,7 @@ description:
 <hr>
 <!--끝-->
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -331,7 +334,7 @@ description:
 <hr>
 <!--끝-->
 <!--시작-->
-<div class="row">
+<div class="row main">
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
