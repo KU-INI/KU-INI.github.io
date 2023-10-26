@@ -11,13 +11,21 @@ description:
     
     }
     div.left {
-        width: 70%;
+        width: 67%;
         height : 300px;
         float: left;
-        line-height : 130%;
+    }
+    div.profile{
+        width: 100%;
+        position: relative;
+    }
+    div.profile:after{
+        content: "";
+        display: block;
+        padding-bottom: 100%;
     }
     div.right {
-        width: 30%;
+        width: 33%;
         height : 300px;
         float: right;
     }
@@ -27,11 +35,12 @@ description:
         line-height : 120%;
     }
     div.profilebox {
-     width: 240px;
-     height: 240px; 
+     width: 100%;
+     height: 100%; 
      border-radius: 70%;
      overflow: hidden;
-     margin-top : 30px
+     margin-top : 30px;
+     position:absolute;
     }
     div.mainbox{    
      background-color: rgba( 0, 0, 0, 0.015 ); 
@@ -76,8 +85,10 @@ description:
         </div>
     </div>
     <div class = "right">
+        <div class = "profile">
         <div class = "profilebox">
             <img class = "profile" src="/img/Professor.jpg" />
+        </div>
         </div>
     </div>
 </div>
