@@ -28,11 +28,9 @@ description:
     }
     div.left{
         width: 23%;
-        height: 180px;
     }
     div.right{
         width: 60%;
-        height: 180px;
     }
     div.margin-left{
         width:5%;
