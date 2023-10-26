@@ -8,19 +8,30 @@ description:
 <style>
     div.profilebox {
      float:right;
-     width: 160px;
-     height: 160px; 
+     width: 100%;
+     height: 100%; 
      border-radius: 70%;
      overflow: hidden;
+    position:absolute;
+    }
+    div.profile{
+        width: 100%;
+        position: relative;
+    }
+    div.profile:after{
+        content: "";
+        display: block;
+        padding-bottom: 100%;
     }
     div.left{
-        width: 30%;
+        width: 23%;
         height: 180px;
-        padding-right:30px;
+        margin-left:30px;
     }
     div.right{
         width: 380px;
         height: 180px;
+        margin-left:30px;
     }
     img.profile {
      width: 100%;
@@ -49,8 +60,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/이은헌.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/이은헌.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -73,8 +86,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/최승윤.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/최승윤.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -96,8 +111,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/박선우.png">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/박선우.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -118,8 +135,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/곽소아.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/곽소아.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -140,8 +159,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/정기민.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/정기민.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -170,8 +191,10 @@ description:
  <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/독고준석.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/독고준석.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -190,8 +213,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/이동건.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/이동건.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -211,8 +236,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/김준구.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/김준구.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -236,8 +263,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/선동언.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/선동언.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -256,8 +285,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/박성수.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/박성수.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -278,8 +309,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/장연주.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/장연주.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
@@ -300,8 +333,10 @@ description:
 <!--시작-->
 <div class="row">
     <div class ="left">
-        <div class="profilebox" style="background: #BDBDBD;">
-            <img class="profile" src="/img/members/이예슬.jpg">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/이예슬.jpg">
+            </div>
         </div>
     </div>
     <div class ="right">
