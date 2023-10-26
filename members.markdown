@@ -29,12 +29,13 @@ description:
     div.left{
         width: 23%;
         height: 180px;
-        margin-left:30px;
     }
     div.right{
         width: 60%;
         height: 180px;
-        margin-left:30px;
+    }
+    div.margin-left{
+        width:5%;
     }
     img.profile {
      width: 100%;
@@ -62,6 +63,7 @@ description:
 
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -69,6 +71,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>Eunhun Lee</h4>
         <div class="italic">
@@ -88,6 +91,7 @@ description:
 
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -95,6 +99,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>최승윤</h4>
         <div class="italic">
@@ -113,6 +118,7 @@ description:
 
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -120,6 +126,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>박선우</h4>
         <div class="italic">
@@ -137,6 +144,7 @@ description:
 <!--끝-->
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -144,6 +152,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>곽소아</h4>
         <div class="italic">
@@ -161,6 +170,7 @@ description:
 <!--끝-->
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -168,6 +178,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>정기민</h4>
         <div class="italic">
@@ -193,6 +204,7 @@ description:
  -->  
  <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -200,6 +212,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>독고준석</h4>
         <div class="italic">
@@ -215,6 +228,7 @@ description:
 <!--끝-->
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -222,6 +236,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>이동건</h4>
         <div class="italic">
@@ -238,6 +253,7 @@ description:
 <!--끝-->
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -245,6 +261,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>김준구</h4>
         <div class="italic">
@@ -265,6 +282,7 @@ description:
     </div>
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -272,6 +290,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>Dongeun Sun</h4>
         <div class="italic">
@@ -287,6 +306,7 @@ description:
 <!--끝-->
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -294,6 +314,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>Sungsoo Park</h4>
         <div class="italic">
@@ -311,6 +332,7 @@ description:
 <!--끝-->
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -318,6 +340,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>장연주</h4>
         <div class="italic">
@@ -335,6 +358,7 @@ description:
 <!--끝-->
 <!--시작-->
 <div class="row main">
+    <div class = "margin-left"></div>
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
@@ -342,6 +366,7 @@ description:
             </div>
         </div>
     </div>
+    <div class = "margin-left"></div>
     <div class ="right">
         <h4>이예슬</h4>
         <div class="italic">
