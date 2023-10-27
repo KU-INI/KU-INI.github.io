@@ -78,7 +78,7 @@ description:
         </div>
         <div>
         <ul>
-            <li>Office : Aegineung Student Center 321</li><br>
+            <li>Office : Aegineung Student Center 317</li><br>
             <li>E-mail : harrykim@korea.ac.kr</li><br>
             <li>Phone : +82-2-3290-2393</li>
         </ul>
