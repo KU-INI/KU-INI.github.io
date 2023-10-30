@@ -65,7 +65,7 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/이은헌.jpg">
+                <img class="profile" src="/img/members/이은헌.png">
             </div>
         </div>
     </div>
@@ -166,6 +166,58 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/정기민.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>정기민</h4>
+        <div class="italic">
+            jkm0530@korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>AI education</li>
+            <li>AI Literacyn</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/곽소아.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>곽소아</h4>
+        <div class="italic">
+            soah.gwak@gmail.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>K-12 Computer Science Education</li>
+            <li>K-12 AI Education, Constructionism</li>
+            <li>Creative Learning</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
                 <img class="profile" src="/img/members/이웅기.jpg">
             </div>
         </div>
@@ -213,57 +265,7 @@ description:
 </div>
 <hr>
 <!--끝-->
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/곽소아.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>곽소아</h4>
-        <div class="italic">
-            soah.gwak@gmail.com
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>K-12 Computer Science Education</li>
-            <li>K-12 AI Education, Constructionism</li>
-            <li>Creative Learning</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/정기민.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>정기민</h4>
-        <div class="italic">
-            jkm0530@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>AI education</li>
-            <li>AI Literacyn</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
+
 <!--
 석사생 프로필 시작
  -->    
@@ -273,30 +275,6 @@ description:
 <!--
 석사생 프로필 추가
  -->  
- <!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/독고준석.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>독고준석</h4>
-        <div class="italic">
-            flyj2911@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>AI</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
 <!--시작-->
 <div class="row main">
     <div class = "margin-left"></div>
@@ -344,6 +322,30 @@ description:
         </ul>
     </div>
 </div>
+<!--끝-->
+ <!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/독고준석.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>독고준석</h4>
+        <div class="italic">
+            flyj2911@korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>AI</li>
+        </ul>
+    </div>
+</div>
+<hr>
 <!--끝-->
 </div>
 
