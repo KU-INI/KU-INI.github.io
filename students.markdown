@@ -265,6 +265,32 @@ description:
 </div>
 <hr>
 <!--끝-->
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/김재욱.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>김재욱</h4>
+        <div class="italic">
+            lesit.jae@gmail.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>Reinforcement Learning</li>
+            <li>Generative Model</li>
+            <li>Evolving Learning</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
 
 <!--
 석사생 프로필 시작
