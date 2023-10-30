@@ -147,7 +147,7 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/정희석.jpg">
+                <img class="profile" src="/img/members/정희석.JPG">
             </div>
         </div>
     </div>
