@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Members
-permalink: /members/
+title: Students
+permalink: /students/
 background: '/img/이공캠.jpg'
 description: 
 ---
@@ -71,22 +71,19 @@ description:
     </div>
     <div class = "margin-left"></div>
     <div class ="right">
-        <h4>Eunhun Lee</h4>
+        <h4>이은헌</h4>
         <div class="italic">
             booksky@korea.ac.kr
         </div>
         <b>Research interests</b>
         <ul>
-            <li>Deep Learning</li>
-            <li>Rule Extraction</li>
+            <li>Explainable artificial intelligence</li>
+            <li>Symbolic artificial intelligence</li>
         </ul>
     </div>
 </div>
 <hr>
 <!--끝-->
-
-
-
 <!--시작-->
 <div class="row main">
     <div class = "margin-left"></div>
@@ -112,8 +109,6 @@ description:
 </div>
 <hr>
 <!--끝-->
-
-
 <!--시작-->
 <div class="row main">
     <div class = "margin-left"></div>
@@ -132,9 +127,87 @@ description:
         </div>
         <b>Research interests</b>
         <ul>
-            <li>Deep Learning</li>
+            <li>Learning Analytics</li>
             <li>Deep Knowledge Tracing</li>
             <li>Informatics Education</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/김우진.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>김우진</h4>
+        <div class="italic">
+            woojinkim1021@korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>Value Alignment</li>
+            <li>AI Ethics</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/이웅기.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>이웅기</h4>
+        <div class="italic">
+            codingchild@korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>Natural Language Processing</li>
+            <li>Learning Analytics</li>
+            <li>Knowledge Tracing</li>
+            <li>Generative AI in Education</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/이상엽.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>이상엽</h4>
+        <div class="italic">
+            yubii2@korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>Deep learning</li>
+            <li>Trustworthy AI</li>
+            <li>AI in Security</li>
         </ul>
     </div>
 </div>
@@ -159,8 +232,8 @@ description:
         <b>Research interests</b>
         <ul>
             <li>K-12 Computer Science Education</li>
-            <li>K-12 AI Education</li>
-            <li>Constructionism</li>
+            <li>K-12 AI Education, Constructionism</li>
+            <li>Creative Learning</li>
         </ul>
     </div>
 </div>
@@ -242,7 +315,6 @@ description:
         </div>
         <b>Research interests</b>
         <ul>
-            <li>XAI</li>
             <li>Reinforcement Learning</li>
         </ul>
     </div>
@@ -272,111 +344,6 @@ description:
         </ul>
     </div>
 </div>
-<hr>
-<!--끝-->
-<!--졸업생-->
-    <div style="margin-top:40px; margin-bottom:20px;">
-        <h2>Alumni</h2>
-    </div>
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/선동언.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>Dongeun Sun</h4>
-        <div class="italic">
-            sunde41@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>Data Mining</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/박성수.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>Sungsoo Park</h4>
-        <div class="italic">
-            littlesoo@kovi.com
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>CNN</li>
-            <li>3D Cad</li>
-            <li>VR</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/장연주.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>장연주</h4>
-        <div class="italic">
-            spring0425@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>Machine Learning</li>
-            <li>Deep Learning</li>
-            <li>Computer Education</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/이예슬.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>이예슬</h4>
-        <div class="italic">
-            ashleylee9404@gmail.com
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>Recommender System</li>
-        </ul>
-    </div>
-</div>
-<hr>
 <!--끝-->
 </div>
 

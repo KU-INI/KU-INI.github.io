@@ -31,8 +31,13 @@
         <li class="nav-item">
           <a class="nav-link" href="{{"/professor" | relative_url }}">PROFESSOR</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/members" | relative_url }}">MEMBERS</a>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
+            MEMBER</a>
+            <div class = "dropdown-menu dropbox">
+              <a class="dropdown-item droptext" href="{{ "/students" | relative_url }}">STUDENTS</a>
+              <a class="dropdown-item droptext" href="{{ "/alumni" | relative_url }}">ALUMNI</a>
+            </div>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
@@ -42,7 +47,6 @@
               <a class="dropdown-item droptext" href="{{ "/patents" | relative_url }}">PATENT</a>
               <a class="dropdown-item droptext" href="{{ "/books" | relative_url }}">BOOK</a>
             </div>
-          
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{"/contact" | relative_url }}" >Contact</a>
